@@ -1,0 +1,20 @@
+
+/*추가*/
+
+.introduce ul span{
+	width : 30%;
+	display : inline-block;
+	font-size : 20px;
+	font-weight: bold;
+	padding : 2px 0 24px 24px;
+}
+
+.introduce ul em{
+	width : 60%;
+	display : inline-block;
+	font-size: 20px;
+	font-weight: bold;
+	/*vertical-align : top; */
+	
+	
+}
